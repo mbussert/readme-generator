@@ -1,17 +1,12 @@
 # Readme Generator 
-  ## This readme was generated using this application.  
+
 
   ## Description: 
 
   This application will automatically generate a readme.md file for a project of your choice by utilizing Node.js and following the prompts via Inquirer. 
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]((https://www.gnu.org/licenses/gpl-3.0)) 
 
-  ## Links:  
-  GitHub Repository: https://github.com/mbussert/readme-generator  
-  YouTube Demo: https://www.youtube.com/watch?v=IYTUSOEVPdw
-
-  ![Application in use](./animated.gif)
 
   ## Table of Contents: 
 

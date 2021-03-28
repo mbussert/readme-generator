@@ -54,7 +54,7 @@ function generateMarkdown(response) {
 
   ## Description: \n
   ${response.projectDescription} \n
-  ${licenseBadge}(${licenseLink}) \n
+  ${licenseBadge}${licenseLink} \n
 
   ## Table of Contents: \n
   * [Installation](#installation)
